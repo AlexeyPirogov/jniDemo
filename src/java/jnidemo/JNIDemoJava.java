@@ -1,6 +1,5 @@
 package jnidemo;
 
-
 public class JNIDemoJava {
 
     static {
